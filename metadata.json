@@ -1,0 +1,7 @@
+{
+  "name": "Medi G BD",
+  "description": "A general health education assistant providing information and guidance. Strictly for educational purposes; does not provide medical diagnosis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
